@@ -32,7 +32,7 @@ export default class CardStack extends React.Component {
             <img src={MyPic} style={{ height: '3.5rem' }} alt="Mark" />
           </Col>
           <Col>
-            <p style={{ fontFamily: '"Baloo Paaji 2"', fontWeight: 600, fontSize: '1.50rem', color: 'white', paddingRight: '2rem' }}>
+            <p style={{ fontFamily: '"Baloo Paaji 2"', fontWeight: 600, fontSize: '2.50rem', color: 'white', paddingRight: '1.5rem' }}>
               Mark Lutes
             </p>
           </Col>
