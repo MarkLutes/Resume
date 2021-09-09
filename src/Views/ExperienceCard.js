@@ -58,6 +58,7 @@ const ExperienceCard = () => {
             <p className='textItem'>Contract Technician</p>
             <p className='textItem2'>Mark 10 Labs</p>
             <p className='textItem2'>Goldman-Sachs</p>
+            <p className='textItem2'>Nielsen</p>
             <p className='textItem2'>H&R Block</p>
           </ListGroupItem>
           <ListGroupItemHeading>
