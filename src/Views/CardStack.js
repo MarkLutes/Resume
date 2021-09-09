@@ -27,12 +27,12 @@ export default class CardStack extends React.Component {
   render() {
     return (
       <Container style={{ display: 'flex', flexFlow: 'wrap', justifyContent: 'center', maxWidth: '1400px' }}>
-        <Row style={{ display: 'flex', position: 'fixed', top: 15, alignItems: 'center', justifyContent: 'space-around', zIndex: '100', height: '5rem', width: '325px', paddingTop: '0.3rem', paddingBottom: '0.5rem', paddingRight: '1rem', paddingLeft: '1rem', }} >
+        <Row style={{ display: 'flex', position: 'fixed', top: 15, alignItems: 'center', justifyContent: 'space-around', zIndex: '100', height: '5rem', width: '325px', paddingTop: '0.3rem', paddingBottom: '0.5rem', paddingRight: '0.5rem', paddingLeft: '1rem', }} >
           <Col>
             <img src={MyPic} style={{ height: '3.5rem' }} alt="Mark" />
           </Col>
           <Col>
-            <p style={{ fontFamily: '"Baloo Paaji 2"', fontWeight: 600, fontSize: '1.50rem', color: 'white' }}>
+            <p style={{ fontFamily: '"Baloo Paaji 2"', fontWeight: 600, fontSize: '1.50rem', color: 'white', paddingRight: '2rem' }}>
               Mark Lutes
             </p>
           </Col>
