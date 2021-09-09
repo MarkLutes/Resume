@@ -5,7 +5,7 @@ const SkillsCard = () => {
 
   const softwareSkills = ['VS Code', 'Xcode', 'Android Studio', 'Docker', 'Postman', 'MongoDB', 'SQL', 'Photoshop', 'Windows', 'MacOS', 'Linux'];
 
-  const developmentSkills = ['HTML', 'CSS', 'JavaScript', 'Node.js', 'React', 'React Native', 'Bootstrap', 'DevOps', 'Project Management', 'GitHub']
+  const developmentSkills = ['HTML', 'CSS', 'JavaScript', 'Node.js', 'React', 'Express', 'React Native', 'Bootstrap', 'DevOps', 'Project Management', 'GitHub']
 
   return (
     <Card style={{
