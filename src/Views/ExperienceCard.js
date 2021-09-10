@@ -67,10 +67,7 @@ const ExperienceCard = () => {
           <ListGroupItem>
             <p className='textItem'>Technical</p>
             <p className='textItem2'>
-              Church Technology Specialist
-            </p>
-            <p className='textItem2'>
-              Church Area Technology Specialist
+              Church Regional Technology Specialist
             </p>
           </ListGroupItem>
 
