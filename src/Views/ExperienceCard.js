@@ -36,15 +36,6 @@ const ExperienceCard = () => {
           </ListGroupItem>
           <ListGroupItemHeading>
             <p className='titleItem'>
-              Team Work
-            </p>
-          </ListGroupItemHeading>
-          <ListGroupItem>
-            <p className='textItem'>Developer</p>
-            <p className='textItem2'>Team member for the construction of <a href="http:\\tooelevalleyonline.com">Tooele Valley Online Food Court</a> to benefit local restuarants during the 2020 Covid-19 shut-down.</p>
-          </ListGroupItem>
-          <ListGroupItemHeading>
-            <p className='titleItem'>
               Leadership
             </p>
           </ListGroupItemHeading>
